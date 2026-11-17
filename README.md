@@ -10,9 +10,7 @@ Built with **TypeScript**, **HTML5 Canvas**, and the **Web Audio API**. The game
 
 ## 🎬 Gameplay preview
 
-<!-- Replace with the direct URL to the uploaded MP4 -->
-
-https://github.com/user-attachments/assets/your-video-id
+https://github.com/user-attachments/assets/a23b3034-bf58-4ca6-9e48-b7c5e8db4409
 
 ---
 
